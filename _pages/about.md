@@ -9,6 +9,8 @@ redirect_from:
 
 Hi! I am a PhD candidate in the Department of Education at the University of California, Los Angeles (UCLA). I am also a Doctoral Researcher for the Highly Mobile Youth project and Alternative Education in California project at the [Center for Transformation of Schools at UCLA](https://transformschools.ucla.edu).
 
+In my free time, I enjoy staying active at the gym and reconnecting with the nature.
+
 
 About My Research
 -----------------
@@ -26,4 +28,6 @@ My research integrates perspectives from the political economy and sociology of 
 
 News
 -----------------
-- **2024/12/16** AERA
+- **2024/11/8** I am excited to share that my paper has been accepted for presentation at the 2025 AERA Annual Conference in Denver, Colorado.
+
+- **2024/10/1** CTS Executive Director [Joseph Bishop](https://www.linkedin.com/in/joseph-bishop-ph-d-20003910/), Ph.D. and CTS Doctoral Candidate & Researcher Hui Huang will present new research on alternative education at the [RAPSA (Reaching At-Promise Students Association)](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHt6tUX63NlPwAAAZPS4zGIx8bfehcfzD9EWsOzU44TnEkuGxeh8R53TyAaM_HrdRrm1RNTc9nKOQvAnF3E7LH_xB-gU_XAdymyhkGTyKyA03pXXaMqVTOrriav_EhNYbRYOXw=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Freaching-at-promise-students-association%2F) pre-conference on Wednesday, November 6 in Coronado, CA.
